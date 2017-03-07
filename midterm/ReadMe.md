@@ -38,7 +38,8 @@ Enron consists of a lot of employees and these employees have email exchanges on
 
 # Results:
 
-!['From Content Emails'](Output Files/From_Content_Emails.jpg)
+![from_content_emails](https://cloud.githubusercontent.com/assets/25045752/23642049/35f39c88-02c6-11e7-913f-65f3bee1acbf.jpg)
+
 
 # Conclusion:
 
@@ -77,7 +78,8 @@ In the Enron dataset, I want to find out the most number of email exchanges in e
 
 # Result:
 
-!['Years Count'](Output Files/Years_Count.jpg)
+![years_count](https://cloud.githubusercontent.com/assets/25045752/23642111/60c1d0ec-02c6-11e7-8c12-d4c8b7501a50.JPG)
+
 
 # Conclusion:
 - According to the screenshot of data, the most number of emails were exchanges in the years 2001
@@ -111,7 +113,8 @@ In the Enron dataset, finding out the maximum number of times a particular word 
 
 # Result:
 
-!['Subject_Frequency'](Output Files/Subject_WordCloud.jpg)
+![subject_wordcloud](https://cloud.githubusercontent.com/assets/25045752/23642125/71e88820-02c6-11e7-89e6-44779fe52762.JPG)
+
 
 # Conclusion:
 
@@ -202,7 +205,8 @@ Article Search has a wide amount of data. This data is subcategorized according 
 
 # Result:
 
-!['Keyword_Frequency'](Output Files/Keyword_Frequency.jpg)
+![keyword_frequency](https://cloud.githubusercontent.com/assets/25045752/23642138/7eb8fd96-02c6-11e7-87bb-ef95a9ed5a50.JPG)
+
 
 # Conclusion:
 
@@ -253,7 +257,8 @@ In this analysis, I am trying to find out the areas where crime, justice, police
 
 # Result:
 
-!['Most_Talked_Crime_Sections'](Output Files/Most_Talked_Crime_Sections.jpg)
+![most_talked_crime_sections](https://cloud.githubusercontent.com/assets/25045752/23642150/8f626484-02c6-11e7-86e9-e123298256dc.JPG)
+
 
 # Conclusion:
 
@@ -310,8 +315,10 @@ In this analysis, I am finding out the months in which the sharing was maximum a
 
 # Result:
 
-!['Most_Sharing'](Output Files/Most_Sharing.jpg)
-!['Most_Views'](Output Files/Most_Views.jpg)
+![most_sharing](https://cloud.githubusercontent.com/assets/25045752/23642162/9a10d6b8-02c6-11e7-8e89-23ce9113ca29.JPG)
+
+![most_views](https://cloud.githubusercontent.com/assets/25045752/23642169/a50ed4d4-02c6-11e7-9d97-2e8aa90fc50d.JPG)
+
 
 # Conclusion:
 
