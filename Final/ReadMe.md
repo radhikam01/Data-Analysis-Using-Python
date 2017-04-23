@@ -72,6 +72,8 @@ Followed by 'Rock' is 'Alternative' which has 26.6% of all the top 10 genres
 
 5. Using plot.barh, plotting a horizontal bar graph for this particular data
 
+6. The result of the the dataframe is written into a csv file using to_csv()
+
 # Result:
 
 ![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_1/Distinct_Genres.PNG)
@@ -118,6 +120,8 @@ Overview: This analysis has two parts. The first part finds out the top 10 most 
     
 10. Used palette as 'Greens' with an edgecolor of '0.2' 
 
+11. The result of the the dataframe is written into a csv file using to_csv()
+
 # Result:
 
 ![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_2/bands_top10.PNG)
@@ -153,6 +157,8 @@ Following that is 'Megadeth' which has 18 number of albums released and is secon
    the number of reviews recieved for that particular album
     
 8. Used palette as 'Blues' with an edgecolor of '0.2' 
+
+9. The result of the the dataframe is written into a csv file using to_csv()
 
 # Result:
 
@@ -201,6 +207,8 @@ Overview: Millions of people listen and critic music acording to their taste and
 
 13. Used color as yellow and edgecolor as 0.2
 
+14. The result of the the dataframe is written into a csv file using to_csv()
+
 # Result:
 
 ![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_3/top10_reviewscores.PNG)
@@ -236,6 +244,8 @@ This analysis also tells us what the reviewers have been talking about the most 
 7. Using sns.heatmap, creating a heatmap to show the variation of creation and release of bands and albums according to    each year
 
 8. Used a linewidth of 0.5 to distinguish between each year
+
+9. The result of the the dataframe is written into a csv file using to_csv()
 
 # Result:
 
