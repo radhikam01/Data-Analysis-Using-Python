@@ -9,7 +9,8 @@ The music industry has provided us with millions of amazing songs which come fro
 
 # FINDING OUT THE TOP AND DISTINCT GENRES FROM ACROSS THE WORLD
 
-Overview: 
+Overview: This analysis has two parts. The first part finds out the top 10 genres from across the world which are the most common.
+The second analysis finds out the distinct genres based on the years.
 
 # Part 1: Top 10 genres from across the world 
 
@@ -58,8 +59,6 @@ Followed by 'Rock' is 'Alternative' which has 26.6% of all the top 10 genres
 
 # Part 2: Number of Distinct Genres Released in a Particular Year
 
-Overview: 
-
 # Process:
 
 1. Using drop_duplicates function, dropping all the duplicates so that we only have unique and distinct genres
@@ -88,7 +87,7 @@ Following that is 2006 with a count of 98 genres and then 2003 with a count of 9
 
 # FINDING OUT THE MOST PROLIFIC BANDS AND ALBUMS ACROSS THE WORLD
 
-Overview: 
+Overview: This analysis has two parts. The first part finds out the top 10 most productive bands based on the number of albums released by that particular bands. The second part finds out the top 10 most productive albums based on the number of reviews recieved by that particular album.
 
 # Part 1: Most Prolific Top 10 Bands By The Number of Albums Released
 
@@ -170,25 +169,22 @@ Following that is Qrixkuor's "Scars of the Crucifix" which has 30 number of revi
 
 # Finding out the Top 10 Albums According to Review Scores Given by Listeners
 
-
-```python
-Overview: 
-```
+Overview: Millions of people listen and critic music acording to their taste and genre. This analysis finds out the top 10 albums of all times based on the number of scores given by reviewers. 
 
 # Process:
 
-1. Reading the World_Music_Band_Detais.csv, World_Music_Album_Details.csv and World_Music_Review_Details.csv file using    pandas pd.read_csv 
+1. Reading the World_Music_Band_Detais.csv, World_Music_Album_Details.csv and World_Music_Review_Details.csv file using pandas pd.read_csv 
 
-2. Using pd.merge, joining the bands details data with the albums details data on the bands ids in both the files        using a left join. Naming this as music_bands_albums_join.
+2. Using pd.merge, joining the bands details data with the albums details data on the bands ids in both the files using a left join. Naming this as music_bands_albums_join.
 
 3. Using pd.merge, joining the previous generated file with reviews details data on the Album IDs from both the files
    using a left join. Naming this as music_bands_albums_reviews_join.
    
 4. Using groupby function, grouping on the Album IDs and taking the count of that using review IDs
 
-5. Only taking into account the reviews which have got a score of more than 8, as I am considering only those to be the    top reviews albums
+5. Only taking into account the reviews which have got a score of more than 8, as I am considering only those to be the top reviews albums
 
-6. Calculating the average score of the albums by calculating the sum of albums scores grouped by Album ids and            dividing it by the count of those albums
+6. Calculating the average score of the albums by calculating the sum of albums scores grouped by Album ids and dividing it by the count of those albums
 
 7. Putting this data into a dataframe using pd.Dataframe
 
@@ -219,6 +215,9 @@ Following that is 'Realm of Chaos: Slaves to Darkness' where 'Realm of Chaos' is
 # ANALYSIS 4
 
 # FINDING OUT THE FORMATION OF TOTAL BANDS AND ALBUMS ACROSS ALL THE YEARS AND MOST NUMBER OF WORDS USED IN REVIEWS
+
+Overview: This analysis gives us the total number of bands formed and the total number of albums created over all the years.
+This analysis also tells us what the reviewers have been talking about the most in their reviews.
 
 # Part 1: Creating of Total Number of Bands and Albums Across all Years
 
@@ -252,11 +251,6 @@ According to the screenshots, 2016 has the most number of band formations follow
 
 # Part 2: Most Number of words used in Reviews given by Listeners
 
-
-```python
-Overview:
-```
-
 # Process:
 
 1. Using the World_Music_Reviews_Details.csv, taking out the reviews columns to show the most used words in reviews by    creating a wordcloud of the same
@@ -277,10 +271,7 @@ This conclusion tells us that the listeners have reviewed most about 'death meta
 
 # FINDING OUT TOTAL NUMBER OF ACTIVE/NON-ACTIVE BANDS ACCORDING TO GENRE AND COUNTRY
 
-
-```python
-Overview:
-```
+Overview: Many bands start off with a great career but end up splitting after a few years. This analysis tells us about the total number of active and non-active bands according to the genre and country
 
 # Process:
 
@@ -301,7 +292,7 @@ Overview:
 
 7. Using np.unique, getting all the unique terms and their counts
 
-8. Using pd.DataFrame, putting these terms into a dataframe and using sort_values, sorting by count in a descending        manner.
+8. Using pd.DataFrame, putting these terms into a dataframe and using sort_values, sorting by count in a descending manner.
 
 9. Since I want to represent my data with a binary matrix where each column represents the unique term and each row
    represents the a band, using MultiLabelBinarizer will transform between iterable of iterables and multilabel format
@@ -329,7 +320,7 @@ Overview:
 
 20. Defining color for the clusters and creating horizontal bar graphs representing only the active bands 
 
-21. Overlaying the horizontal bars which are representing all the bands so that we can get both 'Active' and 'Non-         Active' bands data
+21. Overlaying the horizontal bars which are representing all the bands so that we can get both 'Active' and 'Non-Active' bands data
     
 22. Showcasing the plots according to clusters which shows both active and non-active bands
 
