@@ -261,9 +261,9 @@ This analysis also tells us what the reviewers have been talking about the most 
 # Part 1 Conclusion:
 
 According to the screenshots:
-- 2017 has the most number of albums released followed by 2016 and 2015. The screenshot also shows that in 1986, 1984, 1982, 1981, 1980   and 1978 there were no new album releases.
+- 2017 has the most number of albums released which is 12618 to be precise followed by 2016 which is 12614 and 2015 which is 11818. The   screenshot also shows that in 1986, 1984, 1982, 1981, 1980   and 1978 there were no new album releases.
 
-- According to the screenshots, 2016 has the most number of band formations followed by 2015 and 2014. The screenshot also shows that     1979, 1973, 1971, 1969, 1968, 1966, 1965, 1964 and 1963 there were no new band formations
+- According to the screenshots, 2016 has the most number of band formations which is 11261 followed by 2015 which is 11234 and 2014 which is 11118. The screenshot also shows that 1979, 1973, 1971, 1969, 1968, 1966, 1965, 1964 and 1963 there were no new band formations
 
 # Part 2: Most Number of words used in Reviews given by Listeners
 
