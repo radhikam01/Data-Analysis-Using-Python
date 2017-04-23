@@ -16,37 +16,37 @@ The second analysis finds out the distinct genres based on the years.
 
 # Process:
 
-1.Reading the World_Music_Band_Detais.csv file which consists of all the bands details with their genres
+1. Reading the World_Music_Band_Detais.csv file which consists of all the bands details with their genres
    using pandas pd.read_csv 
    
 
-2.Using groupby, grouping by all the band genres 
+2. Using groupby, grouping by all the band genres 
 
 
-3.Using the function count, counting the band genres and then using sort_values function to sort the values 
+3. Using the function count, counting the band genres and then using sort_values function to sort the values 
    of the count 
     
     
-4.Using tail function, picking out the top 10 genres which are already sorted in ascending order
+4. Using tail function, picking out the top 10 genres which are already sorted in ascending order
 
 
-5.Creating a new column called 'others' which has all the other genres apart from these top 10 genres
+5. Creating a new column called 'others' which has all the other genres apart from these top 10 genres
 
 
-6.The others column is created by using shape function to get the demensions of our dataframe and subtracting it 
+6. The others column is created by using shape function to get the demensions of our dataframe and subtracting it 
    from the sum of the top 10 genres
    
     
-7.Defines 10 colors in the variable called colors 
+7. Defines 10 colors in the variable called colors 
 
 
-8.Using plot.pie, created a pie plot for all the top genres
+8. Using plot.pie, created a pie plot for all the top genres
 
 
-9.Using plt.Circle, created a white circle and added that on this pie chart to create a donut chart
+9. Using plt.Circle, created a white circle and added that on this pie chart to create a donut chart
 
 
-10.Using plt.show, showcasing a donut chart which has the top 10 genres from across the world
+10. Using plt.show, showcasing a donut chart which has the top 10 genres from across the world
 
 # Result:
 
