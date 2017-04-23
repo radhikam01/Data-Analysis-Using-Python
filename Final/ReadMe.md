@@ -54,8 +54,9 @@ The second analysis finds out the distinct genres based on the years.
 
 # Part 1 Conclusion: 
 
-According to the screenshot, the genre which has the most number of songs is 'Rock'. Therefore, the top most genre is Rock which is 32.5% of all the top 10 genres.
-Followed by 'Rock' is 'Alternative' which has 26.6% of all the top 10 genres 
+According to the screenshot: 
+- the genre which has the most number of songs is 'Rock'. Therefore, the top most genre is Rock which is 32.5% of all the top 10 genres.
+- Followed by 'Rock' is 'Alternative' which has 26.6% of all the top 10 genres. 
 
 # Part 2: Number of Distinct Genres Released in a Particular Year
 
@@ -82,8 +83,9 @@ Followed by 'Rock' is 'Alternative' which has 26.6% of all the top 10 genres
 
 # Part 2 Conclusion:
 
-According to the screenshots, in 2005 there were the most distinct number of genres released with a count being of 111.
-Following that is 2006 with a count of 98 genres and then 2003 with a count of 94 genres.
+According to the screenshots: 
+- In 2005 there were the most distinct number of genres released with a count being of 111.
+- Following that is 2006 with a count of 98 genres and then 2003 with a count of 94 genres.
 
 # ANALYSIS 2
 
@@ -130,9 +132,10 @@ Overview: This analysis has two parts. The first part finds out the top 10 most 
 
 # Part 1 Conclusion:
 
-According to the screenshots, 'Led Zeppelin' is the most productive bands because it has the most number of albums 
-released. The total number of albums released by 'Led Zeppelin' is 23.
-Following that is 'Megadeth' which has 18 number of albums released and is second most productive band
+According to the screenshots:
+- 'Led Zeppelin' is the most productive bands because it has the most number of albums 
+   released. The total number of albums released by 'Led Zeppelin' is 23.
+- Following that is 'Megadeth' which has 18 number of albums released and is second most productive band
 
 # Part 2: Most Prolific Top 10 Albums By The Number of Reviews Recieved
 
@@ -168,8 +171,9 @@ Following that is 'Megadeth' which has 18 number of albums released and is secon
 
 # Part 2 Conclusion:
 
-According to the screenshots, Qrixkuor's "Legion" where the band's name is Qrixkuor and the album's name is 'Legion' is the most productive album because it has the most number of reviews recieved. The total number of reviews recieved by 'Legion' is 46.
-Following that is Qrixkuor's "Scars of the Crucifix" which has 30 number of reviews recieved and is the second most productive album
+According to the screenshots:
+- Qrixkuor's "Legion" where the band's name is Qrixkuor and the album's name is 'Legion' is the most productive album because it has the   most number of reviews recieved. The total number of reviews recieved by 'Legion' is 46.
+- Following that is Qrixkuor's "Scars of the Crucifix" which has 30 number of reviews recieved and is the second most productive album
 
 # ANALYSIS 3
 
@@ -217,8 +221,9 @@ Overview: Millions of people listen and critic music acording to their taste and
 
 # Conclusion:
 
-According to the screenshots, 'Anaclasis: A Haunting Gospel of Malice & Hatred' where 'Anaclasis' is the Band name and 'A Haunting Gospel of Malice & Hatred' is the top most album with an average score of 0.9675. This means that this album is the most reviewed album by the listeners.
-Following that is 'Realm of Chaos: Slaves to Darkness' where 'Realm of Chaos' is the band name and 'Slaves to Darkness' is the second top most album with an average score of 0.940526. 
+According to the screenshots: 
+- 'Anaclasis: A Haunting Gospel of Malice & Hatred' where 'Anaclasis' is the Band name and 'A Haunting Gospel of Malice & Hatred' is the    top most album with an average score of 0.9675. This means that this album is the most reviewed album by the listeners.
+- Following that is 'Realm of Chaos: Slaves to Darkness' where 'Realm of Chaos' is the band name and 'Slaves to Darkness' is the second    top most album with an average score of 0.940526. 
 
 # ANALYSIS 4
 
@@ -255,9 +260,10 @@ This analysis also tells us what the reviewers have been talking about the most 
 
 # Part 1 Conclusion:
 
-According to the screenshots, 2017 has the most number of albums released followed by 2016 and 2015. The screenshot also shows that in 1986, 1984, 1982, 1981, 1980 and 1978 there were no new album releases.
+According to the screenshots:
+- 2017 has the most number of albums released followed by 2016 and 2015. The screenshot also shows that in 1986, 1984, 1982, 1981, 1980   and 1978 there were no new album releases.
 
-According to the screenshots, 2016 has the most number of band formations followed by 2015 and 2014. The screenshot also shows that 1979, 1973, 1971, 1969, 1968, 1966, 1965, 1964 and 1963 there were no new band formations
+- According to the screenshots, 2016 has the most number of band formations followed by 2015 and 2014. The screenshot also shows that     1979, 1973, 1971, 1969, 1968, 1966, 1965, 1964 and 1963 there were no new band formations
 
 # Part 2: Most Number of words used in Reviews given by Listeners
 
@@ -274,8 +280,9 @@ According to the screenshots, 2016 has the most number of band formations follow
 ![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_4/wordcloud.PNG)
 
 # Conclusion:
-According to the wordcloud screenshot, the most used word in reviews in 'death metal' followed by 'sound' and 'song'.
-This conclusion tells us that the listeners have reviewed most about 'death metal' and therefore there are a lot of 'death metal' fans out there.
+According to the wordcloud screenshot:
+- The most used word in reviews in 'death metal' followed by 'sound' and 'song'.
+- This conclusion tells us that the listeners have reviewed most about 'death metal' and therefore there are a lot of 'death metal' fans   out there.
 
 # ANALYSIS 5
 
@@ -340,8 +347,9 @@ Overview: Many bands start off with a great career but end up splitting after a 
 
 # Conclusion:
 
-According to the screenshot, US is at the top of each cluster and has the most number of Active and Non-Active bands.
-This is followed by Germany which has the second most number of Active and Non-Active bands.
+According to the screenshot:
+- US is at the top of each cluster and has the most number of Active and Non-Active bands.
+- This is followed by Germany which has the second most number of Active and Non-Active bands.
 
 According to the 5 clusters:
 1. In Metal genre, US has close to 70 Active bands out of total of 120. But Germany has 20 Active and more than 20 Non-Active bands.
