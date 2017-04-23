@@ -49,6 +49,7 @@ Overview:
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_1/Donut_Chart_Genres.PNG)
 
 # Part 1 Conclusion: 
 
@@ -74,6 +75,9 @@ Overview:
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_1/Distinct_Genres.PNG)
+
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_1/Distinct_G_Plt.PNG)
 
 # Part 2 Conclusion:
 
@@ -117,6 +121,9 @@ Overview:
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_2/bands_top10.PNG)
+
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_2/top10_plot.PNG)
 
 # Part 1 Conclusion:
 
@@ -150,6 +157,9 @@ Following that is 'Megadeth' which has 18 number of albums released and is secon
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_2/albums_top10.PNG)
+
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_2/albums_top10_plot.PNG)
 
 # Part 2 Conclusion:
 
@@ -191,12 +201,15 @@ Overview:
     
 11. Creating a new column with band name along with the album name in the same column
     
-12. Plotting a horizontal bar graph with this data and using annotate function, showing the average score on that           particular bar
+12. Plotting a horizontal bar graph with this data and using annotate function, showing the average score on that particular bar
 
 13. Used color as yellow and edgecolor as 0.2
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_3/top10_reviewscores.PNG)
+
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_3/top10_reviewscores_plot.PNG)
 
 # Conclusion:
 
@@ -227,6 +240,9 @@ Following that is 'Realm of Chaos: Slaves to Darkness' where 'Realm of Chaos' is
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_4/Bands_albums_creation.PNG)
+
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_4/bands_albums_heatmap.PNG)
 
 # Part 1 Conclusion:
 
@@ -251,6 +267,7 @@ Overview:
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_4/wordcloud.PNG)
 
 # Conclusion:
 According to the wordcloud screenshot, the most used word in reviews in 'death metal' followed by 'sound' and 'song'.
@@ -318,6 +335,7 @@ Overview:
 
 # Result:
 
+![alt text](https://github.com/radhikam01/maheshwari_radhika_spring2017/blob/master/Final/Analysis/Ana_5/cluster_plot.PNG)
 
 # Conclusion:
 
